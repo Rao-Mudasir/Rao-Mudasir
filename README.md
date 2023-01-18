@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rao-Mudasir
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Php
-- 💞️ I’m looking to collaborate on php projects
+- 🌱 I’m currently learning NEXT.js
+- 💞️ I’m looking to collaborate on React projects
 - 📫 You can reach me by Gmail(raomudasir7777@gmail.com), insta (rao__mudasir) and twitter(rao__mudasir)
 
 <!---
